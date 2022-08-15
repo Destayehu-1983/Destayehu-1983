@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Destayehu-1983
+- 👋 Hi, I’m Destayehu-Wollie
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently looking a job.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
